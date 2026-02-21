@@ -1,0 +1,21 @@
+﻿@model WebApplicationAPP.Models.Producto
+
+<h1>Eliminar Producto</h1>
+<p>Desea eliminar el producto?</p>
+<form method="post">
+
+    <input type="hidden" asp-for="Id" name="Id" required />
+
+
+    <label for="Nombre">Nombre:</label>
+    <input type="text" asp-for="Nombre" name="Nombre" required />
+
+    <label for="Precio">Precio:</label>
+    <input type="number" asp-for="Precio" name="Precio" step="0.01" required />
+
+    <label for="Stock">Stock:</label>
+    <input type="number" asp-for="Stock" name="Stock" required />
+
+    <button type="submit" class="btn btn-danger">Si</button>
+    <a asp-action="Index">Cancelar</a>
+</form>

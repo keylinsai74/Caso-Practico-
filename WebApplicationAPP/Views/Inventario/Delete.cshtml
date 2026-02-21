@@ -1,0 +1,16 @@
+﻿@model WebApplicationAPP.Models.Inventario
+
+<h2>Eliminar Inventario</h2>
+
+<h4>¿Estás seguro que deseas eliminar este registro?</h4>
+
+<div>
+    <p><strong>ProductoId:</strong> @Model.ProductoId</p>
+    <p><strong>Stock:</strong> @Model.Stock</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

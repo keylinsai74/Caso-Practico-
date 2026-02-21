@@ -1,0 +1,44 @@
+﻿@model WebApplicationAPP.Models.CalculadoraViewModel
+
+<form asp-action="Index" method="post">
+    <div class="input-group mb-3">
+        <input asp-for="valor1" type="number" step="any" class="form-control" placeholder="Número 1">
+        <span class="input-group-text">Dato 1</span>
+    </div>
+
+    <div class="input-group mb-3">
+        <input asp-for="valor2" type="number" step="any" class="form-control" placeholder="Número 2">
+        <span class="input-group-text">Dato 2</span>
+    </div>
+
+    <div class="input-group mb-3">
+        <select asp-for="operacion" class="form-select">
+            <option value="">Selecciona tu operación</option>
+            <option value="suma">Suma</option>
+            <option value="resta">Resta</option>
+            <option value="multiplicacion">Multiplicación</option>
+            <option value="division">División</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-secondary">Calcular</button>
+</form>
+
+@if (Model.operacion != null)
+{
+    <div class="alert alert-info mt-3" role="alert">
+        El resultado es: @Model.resultado
+    </div>
+}
+
+@*@<button type="button" on click="calcular ('suma')" class="btn btn-primary">Sumar</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button>*@
+
+
+
+
+@* public double valor1 { get; set; }
+        public double valor2 { get; set; }
+        public double resultado { get; set; *@

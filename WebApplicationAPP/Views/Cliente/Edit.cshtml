@@ -1,0 +1,22 @@
+﻿@model WebApplicationAPP.Models.Cliente
+
+<h1>Editar Cliente</h1>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label class="form-label">Nombre</label>
+        <input asp-for="Nombre" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Correo Electrónico</label>
+        <input asp-for="Correo" type="email" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Teléfono</label>
+        <input asp-for="Telefono" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-success">Actualizar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

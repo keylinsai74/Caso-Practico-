@@ -1,0 +1,646 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\webapplicationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:webapplicationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\repositories\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:repositories\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\repositories\\iinventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:repositories\\iinventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\business\\inventariobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:business\\inventariobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\inventario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\inventario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\inventario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\inventario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\inventario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\inventario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\controllers\\productodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:controllers\\productodbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\clientedb\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\clientedb\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\clientedb\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\clientedb\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\clientedb\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\clientedb\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\clientedb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\clientedb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\controllers\\clientedbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:controllers\\clientedbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\business\\clientebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:business\\clientebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\business\\productobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:business\\productobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\productodb\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\productodb\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\productodb\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\productodb\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\productodb\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\productodb\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\productodb\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\productodb\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\productodb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\productodb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:repositories\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\business\\personabussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:business\\personabussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|c:\\users\\keyli\\source\\repos\\webapplicationapp\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFF1944-2AB8-0A02-46D2-14ED829D7872}|WebApplicationAPP.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Inventario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inventario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Inventario\\Index.cshtml",
+              "RelativeToolTip": "Views\\Inventario\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T05:46:53.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "Controllers\\InventarioController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T05:45:48.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventarioBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Business\\InventarioBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\InventarioBusiness.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Business\\InventarioBusiness.cs",
+              "RelativeToolTip": "Business\\InventarioBusiness.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T05:44:46.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\InventarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InventarioRepository.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\InventarioRepository.cs",
+              "RelativeToolTip": "Repositories\\InventarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T05:39:15.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInventarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\IInventarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IInventarioRepository.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\IInventarioRepository.cs",
+              "RelativeToolTip": "Repositories\\IInventarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T05:38:50.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T04:54:46.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:06:17.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Inventario\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inventario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Inventario\\Create.cshtml",
+              "RelativeToolTip": "Views\\Inventario\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T05:47:18.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplicationAPP.csproj",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\WebApplicationAPP.csproj",
+              "RelativeDocumentMoniker": "WebApplicationAPP.csproj",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\WebApplicationAPP.csproj",
+              "RelativeToolTip": "WebApplicationAPP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-14T01:36:39.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T06:25:04.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "Models\\Inventario.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Models\\Inventario.cs",
+              "RelativeToolTip": "Models\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T05:37:54.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Inventario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inventario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Inventario\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Inventario\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T05:49:14.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClienteBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Business\\ClienteBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\ClienteBusiness.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Business\\ClienteBusiness.cs",
+              "RelativeToolTip": "Business\\ClienteBusiness.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:44:13.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T01:11:19.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Inventario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Inventario\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Inventario\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Inventario\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T05:57:13.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ProductoDB\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductoDB\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ProductoDB\\Delete.cshtml",
+              "RelativeToolTip": "Views\\ProductoDB\\Delete.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T04:25:49.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ProductoDB\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductoDB\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ProductoDB\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ProductoDB\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T04:24:29.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ProductoDB\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductoDB\\Create.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ProductoDB\\Create.cshtml",
+              "RelativeToolTip": "Views\\ProductoDB\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T04:23:46.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClienteDBController.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Controllers\\ClienteDBController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteDBController.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Controllers\\ClienteDBController.cs",
+              "RelativeToolTip": "Controllers\\ClienteDBController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:44:49.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ClienteDB\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ClienteDB\\Index.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ClienteDB\\Index.cshtml",
+              "RelativeToolTip": "Views\\ClienteDB\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T04:46:34.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ClienteDB\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ClienteDB\\Create.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ClienteDB\\Create.cshtml",
+              "RelativeToolTip": "Views\\ClienteDB\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T04:47:03.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ClienteDB\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ClienteDB\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ClienteDB\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ClienteDB\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T04:47:31.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductoDBController.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Controllers\\ProductoDBController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoDBController.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Controllers\\ProductoDBController.cs",
+              "RelativeToolTip": "Controllers\\ProductoDBController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:21:03.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ClienteDB\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\ClienteDB\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ClienteDB\\Delete.cshtml",
+              "RelativeToolTip": "Views\\ClienteDB\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T04:47:51.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ProductoDB\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductoDB\\Index.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ProductoDB\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProductoDB\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T04:23:11.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:18:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductoBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Business\\ProductoBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\ProductoBusiness.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Business\\ProductoBusiness.cs",
+              "RelativeToolTip": "Business\\ProductoBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:16:27.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:15:30.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ProductoDB\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductoDB\\Details.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\ProductoDB\\Details.cshtml",
+              "RelativeToolTip": "Views\\ProductoDB\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T04:25:17.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\IProductoRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:14:57.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:13:26.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Repositories\\IClienteRepository.cs",
+              "RelativeToolTip": "Repositories\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:12:36.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T03:22:40.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PersonaBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Business\\PersonaBussiness.cs",
+              "RelativeDocumentMoniker": "Business\\PersonaBussiness.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Business\\PersonaBussiness.cs",
+              "RelativeToolTip": "Business\\PersonaBussiness.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T02:00:55.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Persona\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Persona\\Index.cshtml",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Views\\Persona\\Index.cshtml",
+              "RelativeToolTip": "Views\\Persona\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T02:07:41.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-14T01:08:28.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\keyli\\source\\repos\\WebApplicationAPP\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T01:03:38.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

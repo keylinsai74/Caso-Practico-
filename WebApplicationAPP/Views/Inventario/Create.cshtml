@@ -1,0 +1,17 @@
+﻿@model WebApplicationAPP.Models.Inventario
+
+<h2>Nuevo Inventario</h2>
+
+<form asp-action="Create" method="post">
+    <div>
+        <label>ProductoId</label>
+        <input asp-for="ProductoId" class="form-control" />
+    </div>
+
+    <div>
+        <label>Stock</label>
+        <input asp-for="Stock" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Guardar</button>
+</form>

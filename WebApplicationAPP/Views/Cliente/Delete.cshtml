@@ -1,0 +1,13 @@
+﻿@model WebApplicationAPP.Models.Cliente
+
+<h1>Eliminar Cliente</h1>
+<div class="alert alert-danger">
+    <h3>¿Estás seguro de que deseas eliminar a @Model.Nombre?</h3>
+    <p>Esta acción no se puede deshacer.</p>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Confirmar Eliminación</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

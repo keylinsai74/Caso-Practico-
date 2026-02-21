@@ -1,0 +1,16 @@
+﻿@model WebApplicationAPP.Models.Cliente
+
+<h1>Detalles del Cliente</h1>
+
+<div class="card">
+    <div class="card-body">
+        <p><strong>ID:</strong> @Model.Id</p>
+        <p><strong>Nombre:</strong> @Model.Nombre</p>
+        <p><strong>Correo:</strong> @Model.Correo</p>
+        <p><strong>Teléfono:</strong> @Model.Telefono</p>
+    </div>
+</div>
+
+<br />
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Editar</a>
+<a asp-action="Index" class="btn btn-secondary">Regresar</a>

@@ -1,0 +1,33 @@
+﻿@model List<WebApplicationAPP.Models.Cliente>
+
+<h1>Gestión de Clientes</h1>
+
+<a asp-action="Create" class="btn btn-primary mb-3">Registrar Nuevo Cliente</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Correo</th>
+            <th>Teléfono</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nombre</td>
+                <td>@item.Correo</td>
+                <td>@item.Telefono</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Detalles</a>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

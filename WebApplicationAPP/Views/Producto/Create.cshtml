@@ -1,0 +1,27 @@
+﻿@model WebApplicationAPP.Models.Producto
+
+<h1>Crear Producto</h1>
+<form method="post">
+    
+<label for=" Nombre"></label>
+<input type="text" asp-for="Nombre" name="Nombre" required />
+
+<label for="Precio"></label>
+<input type="number" asp-for="Precio" name="Precio" step="0.01" required />
+
+<label for="Stock"></label>
+<input type="number" asp-for="Stock" name="Stock" required />
+
+<button type="submit" class="btn btn-primary">Crear</button>
+
+
+
+
+
+
+</form>
+
+    public int Id { get; set; }
+        public string Nombre { get; set; }
+        public decimal Precio { get; set; }
+        public int Stock { get; set; }
